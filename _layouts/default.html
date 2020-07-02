@@ -11,25 +11,29 @@
     <div class="wrapper">
 
       {%- if jekyll.environment == 'production' and site.gtm -%}
-        {%- include gtm_body.html -%}
+      {%- include gtm_body.html -%}
       {%- endif -%}
 
       {%- include about.html -%}
 
+      {%- if site.data.skills.size > 0 -%}
+      {%- include skills.html -%}
+      {%- endif -%}
+
       {%- if site.data.projects.size > 0 -%}
-        {%- include projects.html -%}
+      {%- include projects.html -%}
       {%- endif -%}
 
       {%- if site.data.experience.size > 0 -%}
-        {%- include experience.html -%}
+      {%- include experience.html -%}
       {%- endif -%}
 
       {%- if site.data.education.size > 0 -%}
-        {%- include education.html -%}
+      {%- include education.html -%}
       {%- endif -%}
 
-      {%- if site.more_content -%}
-        {%- include more.html -%}
+      {%- if site.data.awards.size > 0 -%}
+      {%- include awards.html -%}
       {%- endif -%}
 
     </div>
@@ -37,7 +41,7 @@
 
   {%- include footer.html -%}
   {% if site.darkmode == false %}
-    <script src="{{ '/assets/js/index.js' | relative_url }}"></script>
+  <script src="{{ '/assets/js/index.js' | relative_url }}"></script>
   {% endif %}
 </body>
 

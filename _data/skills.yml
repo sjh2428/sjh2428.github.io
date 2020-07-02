@@ -1,0 +1,21 @@
+- layout: left
+  name: Frontend
+  description: |
+    - ES6
+    - Typescript
+    - React + Redux
+    - Styled-Components
+
+- layout: left
+  name: Backend
+  description: |
+    - Node.js
+    - Express
+    - Sequelize
+    - Mocha
+
+- layout: left
+  name: DevOps
+  description: |
+    - MySQL
+    - Linux Ubuntu
