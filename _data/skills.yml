@@ -1,21 +1,25 @@
 - layout: left
   name: Frontend
   description: |
-    - ES6
-    - Typescript
-    - React + Redux
+    - Javascript(ES6+), Typescript
+    - React.js, Redux
+    - HTML/CSS
     - Styled-Components
+    - npm, Babel, Webpack
 
 - layout: left
   name: Backend
   description: |
-    - Node.js
-    - Express
-    - Sequelize
+    - Node.js, Express.js
     - Mocha
 
 - layout: left
-  name: DevOps
+  name: Database
   description: |
     - MySQL
+
+- layout: left
+  name: Etc
+  description: |
+    - Git / GitHub
     - Linux Ubuntu

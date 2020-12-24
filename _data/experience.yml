@@ -1,1 +1,26 @@
+- layout: left
+  name: 부스트캠프 멤버쉽<br>그룹 프로젝트
+  dates: 2019.11.04 ~ 2019.12.20
+  description: |
+    - Git을 이용하여 일정/이슈 관리
+    - 매주 현업 개발자분께 각자의 원하는 코드 약 200줄 가량을 코드리뷰 받음
+    - 매일 아침 서로의 진행상황과 어떠한 이슈가 있는지 공유하는 스크럼 진행
+    - 매주 금요일 회고하는 시간을 가짐
 
+- layout: left
+  name: 부스트캠프 멤버쉽<br>학습 스프린트
+  dates: 2019.08.26 ~ 2019.10.25
+  description: |
+    - 매주 금요일 랜덤으로 약 5명을 골라서 프론트엔드/백엔드 마스터께서 그 주에 작성한 코드를 리뷰한 후 각자 회고하는 시간을 가짐
+    - 2주 분량의 프로젝트를 총 4번(8주) 수행
+      - [로그인](https://github.com/sjh2428/login)
+      - [아마존 캐러셀](https://github.com/sjh2428/amazon-carousel)
+      - [TODO](https://github.com/sjh2428/todo)
+      - [Airbnb Search 클론](https://github.com/sjh2428/airbnb-search-clone)
+
+- layout: left
+  name: 부스트캠프 챌린지
+  dates: 2019.07.15 ~ 2019.08.09
+  description: |
+    - 매주 월~목 Javascript로 주어진 미션을 수행
+    - 매주 금요일마다 주제가 달라지는 릴레이 프로젝트를 수행 후 각자 회고하는 시간을 가짐

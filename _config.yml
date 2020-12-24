@@ -4,7 +4,7 @@ repository: Git repository where your resume will be hosted, only required if yo
 
 # Personal info
 name: 성재호(Seong Jaeho)
-title: Fullstack Developer
+title: 프론트엔드/백엔드 개발자
 email: pok_gare@naver.com
 
 # Dark Mode (true/false/never)
@@ -32,8 +32,19 @@ github_username: sjh2428
 # about_title: About Me (Use this to override about section title)
 about_profile_image: https://avatars3.githubusercontent.com/u/26241585?s=460&u=9e4860590f599ef537f0f3294e206530135166f1&v=4
 about_content: | # this will include new lines to allow paragraphs
-  반갑습니다! 저는 풀스택 개발을 좋아하며 55:45로 백엔드를 조금 더 선호합니다.<br />
-  주력 언어로는 <mark>ES6(Javascript)</mark>이며 최근에는 Java/Spring에 흥미를 느껴 학습하고 있습니다.
+  스스로 성장 가능하며 언어나 도구에 상관 없이 문제를 해결해 나갈 수 있는 <mark>지속 가능한 개발자</mark>가 되고자 노력하고 있습니다.
+
+  개발을 하는데에 있어서 가장 중요한 것은 <mark>끈기</mark>와 <mark>집요함</mark>이라고 생각합니다.
+  어떠한 문제가 발생하면 이를 해결할 때 까지 필요한 지식을 찾아서 습득하고 집요하게 해결하고자 합니다.
+
+  주력 언어로는 <mark>Javascript(ES6+)</mark>이며 <mark>프론트엔드</mark>, <mark>백엔드</mark> 개발에 관심이 있으며
+  <mark>코드 리뷰</mark>를 통해 함께 성장하는 것에 관심이 있습니다.
+
+  프론트엔드는 <mark>React</mark>를 사용하여 개발하며 상태 관리 라이브러리인 <mark>Redux</mark>를 사용한 경험이 있고 현재는 <mark>Typescript</mark>를 기반으로 프로젝트를 구성합니다.
+
+  백엔드는 <mark>Node.js</mark>와 <mark>Express.js</mark>를 주로 사용하며 최근에는 <mark>Spring Boot</mark>와 <mark>JPA</mark>를 활용한 프로젝트를 진행하고 있습니다.
+
+  [<mark>부스트캠프</mark>](http://boostcamp.connect.or.kr/) 2019의 챌린지, 멤버쉽 교육과정을 수료하였으며 현재는 연합동아리인 [<mark>YAPP</mark>](http://yapp.co.kr/)에서 백엔드 개발자로 활동하고 있습니다.
 
 # Skills Section
 # skill_title: Skills #(Use this to override about more section title)
