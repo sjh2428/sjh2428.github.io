@@ -39,6 +39,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   주력 언어로는 <mark>Javascript(ES6+)</mark>이며 <mark>프론트엔드</mark>, <mark>백엔드</mark> 개발에 관심이 있으며
   <mark>코드 리뷰</mark>를 통해 서로의 코드를 보며 함께 배우고 새로이 배운 지식을 나누는 것을 즐기고 있습니다.
+  또한 <mark>ESLint</mark>와 <mark>Prettier</mark>를 사용하여 <mark>Code Quality</mark>를 지키고 <mark>읽기 좋은 코드</mark>를 쓰도록 노력하고 있습니다.
 
   프론트엔드는 <mark>React</mark>를 사용하여 개발하며 상태 관리 라이브러리인 <mark>Redux</mark>를 사용한 경험이 있고 현재는 <mark>Typescript</mark>를 기반으로 프로젝트를 구성합니다.
 
