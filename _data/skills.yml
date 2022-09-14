@@ -2,7 +2,7 @@
   name: Frontend
   description: |
     - Javascript(ES6+), Typescript
-    - React.js, Redux
+    - React.js, Redux, Redux-Saga
     - HTML/CSS
     - Styled-Components
     - Babel, Webpack
@@ -12,15 +12,15 @@
   description: |
     - Node.js, Express.js
     - Mocha
+    - Python, Django
 
 - layout: left
   name: Database
   description: |
-    - MySQL
+    - SQL
 
 - layout: left
   name: Etc
   description: |
-    - ESLint, Prettier
-    - Git / GitHub
+    - Git
     - Linux Ubuntu
