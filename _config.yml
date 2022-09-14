@@ -45,7 +45,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   백엔드는 <mark>Node.js</mark>와 <mark>Express.js</mark>를 주로 사용하며 최근에는 <mark>Spring Boot</mark>와 <mark>JPA</mark>를 활용한 프로젝트를 진행하고 있습니다.
 
-  [<mark>부스트캠프</mark>](http://boostcamp.connect.or.kr/) 2019의 챌린지, 멤버쉽 교육과정을 수료하였으며 현재는 연합동아리인 [<mark>YAPP</mark>](http://yapp.co.kr/)에서 백엔드 개발자로 활동하고 있습니다.
+  [<mark>부스트캠프</mark>](http://boostcamp.connect.or.kr/) 2019의 챌린지, 멤버쉽 교육과정을 수료하였으며 현재는 연합동아리인 [<mark>YAPP</mark>](http://yapp.co.kr/)에서 백엔드 개발자로 활동하였습니다.
 
 # Skills Section
 # skill_title: Skills #(Use this to override about more section title)
