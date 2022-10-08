@@ -1,4 +1,13 @@
 - layout: left
+  name: [라이트하우스](https://www.lighthouse.love/)<br>개발팀 - 풀스택 개발자
+  dates: 2021.02.01 ~ 현재<br>(2년차)
+  description: |
+    - 초기 멤버로 3명일 때 합류하여 12명까지 400% 성장하는 과정에 참여
+    - [오늘케어](https://www.todaycare.kr/)/[데일리북](https://www.dailybooklove.com/) (서버 개발/웹 프론트 선임개발자 담당)
+    - [케어하우스](https://www.carehouselove.com/) (웹 프론트 개발 담당)
+    - 오늘케어/데일리북/케어하우스 어드민 (웹 프론트, 서버 개발 담당) - PO 역할 수행
+
+- layout: left
   name: 부스트캠프 멤버쉽<br>그룹 프로젝트
   dates: 2019.11.04 ~ 2019.12.20
   description: |
