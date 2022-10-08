@@ -1,9 +1,8 @@
 - layout: left
   name: Frontend
   description: |
-    - Javascript(ES6+), Typescript
+    - HTML/CSS/JS/TS
     - React.js, Redux, Redux-Saga
-    - HTML/CSS
     - Styled-Components
     - Babel, Webpack
 
