@@ -11,7 +11,6 @@
   description: |
     - Node.js, Express.js
     - Mocha
-    - Python, Django
 
 - layout: left
   name: Database
