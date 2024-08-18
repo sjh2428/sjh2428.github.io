@@ -1,6 +1,13 @@
 - layout: left
+  name: 넥슨
+  dates: 2022.12.19 ~ 현재<br>(4년차)
+  description: |
+    - 내부 운영 툴 개발
+    - POC/MVP 프로덕트 개발 담당
+
+- layout: left
   name: 라이트하우스
-  dates: 2021.02.01 ~ 현재<br>(2년차)
+  dates: 2021.02.01 ~ 2022.12.16<br>(1년 10개월)
   description: |
     - 초기 멤버로 3명일 때 합류하여 12명까지 400% 성장하는 과정에 참여
     - [오늘케어](https://www.todaycare.kr/)/[데일리북](https://www.dailybooklove.com/) (서버 개발/웹 프론트 선임개발자 담당)
