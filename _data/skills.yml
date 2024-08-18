@@ -5,20 +5,22 @@
     - React.js, Redux, Redux-Saga
     - Styled-Components
     - Babel, Webpack
+    - Vue.js
 
 - layout: left
   name: Backend
   description: |
-    - Node.js, Express.js
+    - Node.js, Express.js, Fastify
     - Mocha
 
 - layout: left
   name: Database
   description: |
-    - SQL
+    - MySQL 8.0
 
 - layout: left
   name: Etc
   description: |
+    - AWS
     - Git
     - Linux Ubuntu
