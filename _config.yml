@@ -5,7 +5,7 @@ repository: Git repository where your resume will be hosted, only required if yo
 # Personal info
 name: 성재호(Seong Jaeho)
 title: 프론트엔드/백엔드 개발자
-email: pok_gare@naver.com
+email: tjdwogh45@gmail.com
 
 # Dark Mode (true/false/never)
 darkmode: false
